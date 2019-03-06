@@ -13,5 +13,8 @@
     "shebang-loader": "0.0.1",
     "svg-to-react-native-cli": "0.0.3",
     "webpack": "^4.29.6"
+  },
+  "scripts": {
+    "bundle": "./node_modules/.bin/webpack"
   }
 }
