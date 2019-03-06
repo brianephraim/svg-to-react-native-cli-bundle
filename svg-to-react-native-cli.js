@@ -1,0 +1,1 @@
+module.exports = require('shebang-loader!./node_modules/svg-to-react-native-cli');

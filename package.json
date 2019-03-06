@@ -1,0 +1,19 @@
+{
+  "name": "svg-to-react-native-cli-bundled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "svg-to-react-native-cli-bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shebang-loader": "0.0.1",
+    "svg-to-react-native-cli": "0.0.3",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}

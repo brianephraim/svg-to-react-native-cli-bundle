@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="37px" viewBox="0 0 23 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>D667BEE8-CCD8-4752-BDB6-87C72E4EB771</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="35.7412171 22.4868421 31.508125 26.7199342 45.2581689 40.5 31.508125 54.2800658 35.7412171 58.5131579 53.754375 40.5"></polygon>
+    </defs>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-129.000000, -2483.000000)" id="Icon-lock-Copy">
+            <g transform="translate(98.000000, 2461.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="chevron_right" fill="#000000" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
